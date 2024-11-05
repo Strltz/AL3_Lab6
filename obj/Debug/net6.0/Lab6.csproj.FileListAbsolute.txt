@@ -1,0 +1,17 @@
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.csproj.CopyComplete
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\Users\kw1nt00\Desktop\3 семестр\Алгоритмические языки\Лабораторные работы\Лабораторная 6\Lab6\obj\Debug\net6.0\ref\Lab6.dll

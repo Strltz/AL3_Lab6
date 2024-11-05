@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1SKT7dt3X9H5SIhAMT24kAoi+x2SqXLm+fqhVZwcie0p9GzMWML8MpiYuhsE+w/uWMFgZ4fmQUtTP9bYaGGg0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kw1nt00\\Desktop\\3 семестр\\Алгоритмические языки\\Лабораторные работы\\Лабораторная 6\\Lab6\\Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw1nt00\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
